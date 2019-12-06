@@ -11,6 +11,13 @@ body {
   margin: 10px;
 }
 
+header {
+  color: red;
+  background-color: green;
+  display: flex;
+  justify-content: center;
+}
+
 .wrapper{
   width: 60%
 }
