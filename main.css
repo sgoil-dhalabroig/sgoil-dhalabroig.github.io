@@ -1,0 +1,19 @@
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  background-color: green;
+  padding: 10px;
+  margin: 10px;
+}
+
+.wrapper{
+  width: 60%
+}
+
+.padder {
+width: 20%}
